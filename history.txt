@@ -1,0 +1,178 @@
+    1  pwd
+    2  ls
+    3  clear
+    4  git clone git@github.com:Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python.git
+    5  clear
+    6  git clone https://git@github.com:Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python.git
+    7  git clone https://github.com/Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python
+    8  ls
+    9  git clone git@github.com:Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python.git
+   10  git clone https://https://github.com/Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python
+   11  git clone https://github.com/Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python
+   12  ls
+   13  ls
+   14  git checkout main
+   15  git pull
+   16  cd repo
+   17  git clone https://github.com/Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python
+   18  git checkout master
+   19  git pull
+   20  git checkout -b task/1
+   21  git status
+   22  ls
+   23  git status
+   24  git init
+   25  git status
+   26  exit
+   27  ls
+   28  cd Neo-Mamabolo-219-level-1-programming-katas-python
+   29  ls
+   30  git add
+   31  clear
+   32  exit
+   33  pwd
+   34  cd desktop
+   35  ls
+   36  ssh-keygen -t ed25519 -C "vuyomamabolo@gmail.com"
+   37  eval "$(ssh-agent -s)"
+   38  ssh-add ~/.ssh/id_ed25519
+   39  clip < ~/.ssh/id_ed25519.pub
+   40  cat ~/.ssh/id_ed25519.pub
+   41  clear
+   42  ls
+   43  git clone git@github.com:Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python.git
+   44  git clone git@github.com:Umuzi-org/Neo-Mamabolo-219-level-1-programming-katas-python.git
+   45  git checkout main
+   46  git checkout master
+   47  ls
+   48  pwd
+   49  cd Neo-Mamabolo-219-level-1-programming-katas-python
+   50  git checkout main
+   51  git pull
+   52  git checkout -b task/1
+   53  vi hello.py
+   54  git status
+   55  git add task1.py
+   56  git status
+   57  git commit
+   58  git config --global user.email "vuyomamabolo@gmail.com"
+   59  git config --global user.name "VNeo1DA"
+   60  git commit
+   61  git push
+   62  git push --set-upstream origin task/1
+   63  git pull
+   64  git checkout main
+   65  clear
+   66  exit
+   67  ls
+   68  cd Neo-Mamabolo-219-level-1-programming-katas-python
+   69  git status
+   70  rm -f .git/index
+   71  git reset
+   72  clear
+   73  exit
+   74  ls
+   75  cd Neo-Mamabolo-219-level-1-programming-katas-python
+   76  git status
+   77  git add task2.py
+   78  git status
+   79  git commit
+   80  git push --set-upstream origin task/2
+   81  git checkout main
+   82  git pull
+   83  git checkout -b task/3
+   84  git status
+   85  git add task3.py
+   86  git status
+   87  git commit
+   88  git push
+   89  git push --set-upstream origin task/3
+   90  git checkout main
+   91  git pull
+   92  git checkout -b task/4
+   93  git status
+   94  git add task4.py
+   95  git status
+   96  git commit
+   97  git push --set-upstream origin task/4
+   98  git checkout main
+   99  clear
+  100  exit
+  101  ls
+  102  cd Neo-Mamabolo-219-level-1-programming-katas-python
+  103  git checkout main
+  104  git pull
+  105  git checkout -b task/5
+  106  git status
+  107  git add task5.py
+  108  git status
+  109  git commit
+  110  git push --set-upstream origin task/5
+  111  git checkout main
+  112  git pull
+  113  git checkout -b task/6
+  114  git status
+  115  git add task6.py
+  116  git status
+  117  git commit
+  118  git push --set-upstream origin task/6
+  119  git checkout main
+  120  clear
+  121  exit
+  122  mkdir git-basic-exercises
+  123  cd git-basic-exercises
+  124  ls -a
+  125  git init
+  126  git status
+  127  touch README.md
+  128  ls -a
+  129  git status
+  130  git log
+  131  git add README.md
+  132  git status
+  133  git rm --cached README.md
+  134  git status
+  135  git commit -m "initial commit"
+  136  git add README.md
+  137  git status
+  138  git commit -m "initial commit"
+  139  git log
+  140  nano README.md
+  141  cat README.md
+  142  git status
+  143  git commit -a
+  144  nano README.md
+  145  cat README.md
+  146  git status
+  147  git commit -a
+  148  git log
+  149  q
+  150  git checkout
+  151  cat README.md
+  152  git checkout main
+  153  git config --global init.defaultBranch main
+  154  exit
+  155  ls
+  156  cd git-basic-exercises
+  157  git branch
+  158  git branch milkshake-flavours
+  159  git branch
+  160  git branch
+  161  git checkout main
+  162  git checkout master
+  163  git branch
+  164  git checkout milkshake-flavours
+  165  nano milkshakes.md
+  166  git status
+  167  git commit -m "added initial flavours"
+  168  git status
+  169  git commit
+  170  git add milkshakes.md
+  171  git commit -m "added initial flavours"
+  172  git log
+  173  git checkout master
+  174  git branch history
+  175  git checkout history
+  176  git log
+  177  git branch
+  178  history > history.txt
